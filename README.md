@@ -1,6 +1,6 @@
 # Hey there, I'm Alex! 👋
 
-I'm a junior at the University of Minnesota Honors Program, pursuing a double major in computer science and mathematics.
+I'm a senior at the University of Minnesota Honors Program, pursuing a double major in computer science and mathematics.
 
 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/alex-iliarski/)
 
